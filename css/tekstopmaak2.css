@@ -1,0 +1,35 @@
+/* oefenreeks2 */
+/* oefening1:uitlijnen */
+.links {
+    text-align: left;
+}
+.midden {
+    text-align: center;
+}
+.rechts {
+    text-align: right;
+}
+/* oefening2:decoration */
+.onder {
+    text-decoration:underline ;
+}
+.door {
+    text-decoration:line-through;
+}
+/* oefening3:text-insprong*/
+.insprong1 {
+    text-indent: 40px;
+}
+.insprong2 {
+    text-indent:10%;
+}
+/* oefening4:boven- en onderkast */
+.kast1 {
+    text-transform: uppercase;
+}
+.kast2 {
+    text-transform: lowercase;
+}
+.kast3 {
+    text-transform: capitalize;
+}
