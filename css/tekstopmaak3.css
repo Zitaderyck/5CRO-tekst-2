@@ -1,0 +1,11 @@
+/* oefenreeks3 */
+/* oefening1:uitlijning */
+.letter-spacing {
+    letter-spacing: 2px;
+}
+.line-height {
+    line-height:1,5rem;
+}
+.word-spacing {
+    word-spacing: 5px;
+}
