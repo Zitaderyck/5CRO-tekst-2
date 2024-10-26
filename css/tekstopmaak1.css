@@ -1,0 +1,39 @@
+/* oefenreeks 1*/
+/* oefening 1*/
+.abs {
+    font-size: 16px;
+}
+.rel {
+    font-size: 1,5em;
+}
+/* oefening 2*/
+
+.bold {
+    font-weight:bold;
+}
+.italic {
+    font-style: italic;
+}
+.bold-italic {
+    font-weight: bold;
+    font-style: italic;
+}
+/* oefening 3 */
+.fijnste {
+    font-weight: 100;
+}
+.normaal {
+    font-style: italic;
+    font-weight: 400;
+}
+.dikke{
+font-weight: 700;
+}
+
+/* oefening 4*/
+.ff1{
+    font-family: Arial;
+}
+.ff2 {
+    font-family: 'Times New Roman';
+}
