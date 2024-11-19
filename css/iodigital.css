@@ -1,0 +1,24 @@
+@font-face{
+    font-family:"TT Commons";
+    src: 
+    local("TT Commons"),
+    url(./../fonts/TTCommons-Medium.otf) format("opentype");
+    font-weight: 500;
+    font-style: normal;
+}
+* {
+    font-family:"TT Commons";
+}
+
+@font-face{
+    font-family: "RecklessNeue";
+    src: 
+    local("RecklessNeue"),
+    url(./../fonts/RecklessNeue-RegularItalic.ttf) format(truetype);
+    font-weight: 500;
+    font-style: normal;
+}
+* {
+    font-family: "RecklessNeue";
+
+}
